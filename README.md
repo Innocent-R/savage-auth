@@ -1,13 +1,3 @@
-## Installation
+savage-auth
 
-1. Clone repo
-2. run `npm install`
-
-## Usage
-
-1. run `node server.js`
-2. Navigate to `localhost:8080`
-
-## Credit
-
-Modified from Scotch.io's auth tutorial
+<img width="812" height="298" alt="auth" src="https://github.com/user-attachments/assets/2c804d68-e142-4042-ad74-9e4028600c81" />
